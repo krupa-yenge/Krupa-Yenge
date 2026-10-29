@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Krupa Yenge 👋
 
-<!--
-**krupa-yenge/Krupa-Yenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Skills: C, Python, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Interests: Web Development, Android Development, Artificial Intelligence and Machine Learning
+
+🚀 I enjoy learning new technologies and building practical projects.
+
+## Projects
+- AI Resume Analyzer
+- College Bus Tracking System
+- Plantable Items E-Commerce Website
+- Library Management System
+
+## Technologies
+C | Python | Java | HTML | CSS | JavaScript | PHP | MySQL | Firebase
