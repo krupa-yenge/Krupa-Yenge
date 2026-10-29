@@ -15,4 +15,4 @@
 - Library Management System
 
 ## Technologies
-C | Python | Java | HTML | CSS | JavaScript | PHP | MySQL | Firebase
+C | Python | Java | HTML | CSS | JavaScript
